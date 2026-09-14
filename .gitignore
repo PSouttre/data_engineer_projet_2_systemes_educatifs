@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Fichiers de données
+*.csv
+data/
+
+# Fichiers temporaires de Jupyter Notebook
+.ipynb_checkpoints/
+
+.idea/
+uv
+uv.exe
